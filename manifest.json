@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Bee:Connect",
+  "description": "Bee : Connect",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Bee:Connect",
+  "name": "Bee : Connect",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Bee:Connect",
+  "short_name": "Bee : Connect",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Bee:Connect",
+      "name": "Bee : Connect0",
       "url": "",
       "description": ""
     }
